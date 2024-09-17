@@ -1,0 +1,4 @@
+PyPDF2
+openai
+anthropic
+python-dotenv
